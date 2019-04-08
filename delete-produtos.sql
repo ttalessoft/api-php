@@ -1,0 +1,1 @@
+delete from produtos where produtos.id = 0;

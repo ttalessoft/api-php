@@ -1,0 +1,28 @@
+insert into produtos
+	(loja_id, nome, preco, quantidade)
+    values
+    (1,'Blusa',22.99, 5 ),
+	(4,'Blusa cavada',32.99, 7 ),
+	(3,'Blusinha' ,18.99, 8 ),
+	(3,'Short', 23.95, 9 ),
+	(3,'Camisa', 25.99, 2 ),
+	(2,'Corpete', 21.99, 4 ),
+	(2,'Langerie', 55.99, 3 ),
+	(1,'Calçinha', 12.99, 7 ),
+	(2,'Blusa', 22.100, 5 ),
+	(1,'Blusa cavada', 32.100, 7 ),
+	(2,'Blusinha', 18.100, 8 ),
+	(2,'Short', 23.96, 9 ),
+	(2,'Camisa', 25.100, 2 ),
+	(1,'Corpete', 21.100, 4 ),
+	(2,'Langerie', 55.100, 3 ),
+	(2,'Calçinha', 12.100, 7 ),
+	(1,'Blusa', 22.101, 5 ),
+	(3,'Blusa cavada', 32.101, 5 ),
+	(4,'Blusinha', 18.101, 7 ),
+	(3,'Short', 23.97, 8 ),
+	(2,'Camisa', 25.101, 9 ),
+	(3,'Corpete', 21.101, 2 ),
+	(3,'Langerie', 55.101, 4 ),
+	(3,'Calçinha', 12.101, 3 ),
+	(2,'Blusa', 22.102, 7 );
